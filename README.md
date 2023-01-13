@@ -1,2 +1,1 @@
-# primer-repo-henry-prepcourse
-este es un repo de prueba echo en gibhut
+este es una prueba para hacer un repo de github y clonarlo ala repo local de mi pc
